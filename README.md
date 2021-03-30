@@ -1,3 +1,5 @@
-# Impressum
+# Impressum (dib2x)
 
-TBD
+(Impressum is a German thing)
+
+Siehe https://github.com/dib2x/dib2x.github.io/blob/main/IMPRESSUM.md
